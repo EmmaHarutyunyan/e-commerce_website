@@ -5,6 +5,7 @@ A modern e-commerce site built with Django, offering stylish UI and features for
 ![Hero](https://github.com/user-attachments/assets/39afaa10-6097-4b31-b01e-79523ebabfb0)
 ![Category Preview](https://github.com/user-attachments/assets/b2beb42d-8cfe-4ece-9534-7099ee78d4f2)
 ![Quick View](https://github.com/user-attachments/assets/5fc16649-143a-4d95-a7ec-b28c5e8ea735)
+![Image](https://github.com/user-attachments/assets/9dc9a4e5-01da-4729-af30-0f9dd8b21c88)
 
 ## 🚀 Features
 
