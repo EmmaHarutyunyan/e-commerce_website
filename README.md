@@ -1,4 +1,4 @@
-# 🛍️ Maison Éclat — Django E-Commerce Website
+Django E-Commerce Website
 
 A modern e-commerce site built with Django, offering stylish UI and features for clothing or product-based businesses.
 
